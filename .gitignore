@@ -1,0 +1,52 @@
+# Arquivos temporários do sistema
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# Arquivos do Office (opcional — se NÃO quiser enviar)
+~$*.docx
+
+# Arquivos de backup do Draw.io
+*.drawio.bkp
+*.bak
+
+# Configurações internas do editor
+.vscode/
+.idea/
+
+# Cache de navegadores / ferramentas
+.cache/
+dist/
+build/
+
+# Python (caso use FastAPI no backend)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Node (caso use Node.js no backend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker
+*.pid
+
+# Logs do sistema
+*.log
+
+# Arquivos compactados
+*.zip
+*.rar
+
+# Dados sensíveis (caso existam)
+*.env
+.env.*
+
+# Draw.io files - do NOT send to GitHub
+*.drawio
+*.drawio.bkp
+*.bak
