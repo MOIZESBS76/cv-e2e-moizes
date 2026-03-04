@@ -93,7 +93,7 @@ Este projeto foi planejado para demonstrar:
 
 ## 👤 Autor
 
-**moizes**  
+**Moizes**  
 Desenvolvedor • Projetos E2E • Documentação Técnica • Arquitetura de Sistemas
 
 ---
